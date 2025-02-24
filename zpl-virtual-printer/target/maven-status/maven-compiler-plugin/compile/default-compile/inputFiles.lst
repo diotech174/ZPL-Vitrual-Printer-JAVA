@@ -1,0 +1,11 @@
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/classes/Labels.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/com/diogenestec/zpl/virtual/printer/ZplVirtualPrinter.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/com/diogenestec/zpl/virtual/printer/frmPrograma.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/services/ConfigManager.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/services/FileDeletion.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/services/FolderObserver.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/services/IconLoader.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/services/JarRestart.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/services/LabelaryRequest.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/services/WebSocketServer.java
+/home/diogenes/NetBeansProjects/zpl-virtual-printer/src/main/java/services/WebSocketServerApp.java

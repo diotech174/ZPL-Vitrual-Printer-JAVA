@@ -1,0 +1,10 @@
+mkdir -p libs
+mv zpl-virtual-printer-1.0-SNAPSHOT.jar libs/
+
+jpackage --name zvp \
+  --input libs \
+  --main-jar zpl-virtual-printer-1.0-SNAPSHOT.jar \
+  --main-class com.diogenestec.zpl.virtual.printer.ZplVirtualPrinter \
+  --type app-image \
+  --dest /tmp/zvp-output \
+  --icon /home/diogenes/NetBeansProjects/zpl-virtual-printer/target/classes/icons/printer.png
